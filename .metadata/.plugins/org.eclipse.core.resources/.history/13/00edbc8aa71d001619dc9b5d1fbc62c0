@@ -1,0 +1,19 @@
+package com.bookstore.ws;
+
+import javax.jws.WebMethod;
+import javax.jws.WebService;
+
+@WebService
+public class HelloWorldImpl{
+
+	private String message = new String("Hello, ");
+
+    public void Hello() {
+    }
+
+    @WebMethod
+    public String sayHello() {
+        return message + name + ".";
+    }
+
+}

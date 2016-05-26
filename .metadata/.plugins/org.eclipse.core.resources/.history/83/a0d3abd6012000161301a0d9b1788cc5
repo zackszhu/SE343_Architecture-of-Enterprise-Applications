@@ -1,0 +1,167 @@
+package com.bookstore.ejb;
+
+import static javax.ejb.TransactionAttributeType.REQUIRED;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
+import java.util.ArrayList;
+import java.util.List;
+
+import javax.ejb.EJB;
+import javax.ejb.LocalBean;
+import javax.ejb.Stateless;
+import javax.ejb.TransactionAttribute;
+import javax.persistence.EntityManager;
+import javax.persistence.NoResultException;
+import javax.persistence.PersistenceContext;
+
+import com.bookstore.memcached.MyCache;
+import com.bookstore.model.Books;
+import com.bookstore.model.Users;
+import com.danga.MemCached.MemCachedClient;
+import com.danga.MemCached.SockIOPool;
+
+import redis.clients.jedis.Jedis;
+
+/**
+ * Session Bean implementation class BookListBean
+ */
+@Stateless
+@LocalBean
+@TransactionAttribute(value=REQUIRED)
+public class BookListBean implements BookListBeanRemote {
+	
+	@PersistenceContext(unitName = "JPADB")
+    private EntityManager entityManager;
+	
+	private MemCachedClient memCachedClient;
+	private SockIOPool pool;
+	
+    /**
+     * Default constructor. 
+     */
+    public BookListBean() {
+//        getClient();
+    }
+
+	public List<Books> getAllBooks() {
+		List<Books> books;
+		System.out.println("All");
+		try {
+			books = (List<Books>) entityManager.createQuery("SELECT b FROM Books b")
+        			.getResultList();   
+		}
+		catch (NoResultException ex) {
+    		books = null;
+    	}
+		return books;
+	}
+
+	public List<Books> getBooks(String username) {
+		List<Books> books = new ArrayList<Books>();
+		List<Integer> bookIDs;
+		Users user;
+		try {
+			user = (Users) entityManager.createQuery("SELECT u FROM Users u WHERE u.Username = :username")
+					.setParameter("username", username)
+					.getSingleResult();
+			bookIDs = (List<Integer>) entityManager.createQuery("SELECT o.BookID FROM Orders o WHERE o.UserID=:UserID")
+					.setParameter("UserID", user.getUserID())
+					.getResultList();
+			for (int id : bookIDs) {
+				Books book = null;
+				if (book == null) {
+					try {
+						book = (Books) entityManager.createQuery("SELECT b FROM Books b WHERE b.id=:id")
+			        			.setParameter("id", id)
+								.getSingleResult();  
+					}
+					catch (NoResultException ex) {
+			    		book = null;
+			    	}
+				}
+				if (book != null) {
+					books.add(book);
+				}
+			}
+		}
+		catch (NoResultException ex) {
+			books = null;
+		}
+		return books;
+	}
+
+	public void addBooks(String bookName, String author, String publisher, String isbn, double price, String description) {
+		Books book = new Books(bookName, author, publisher, isbn, price, description);
+		entityManager.persist(book);
+	}
+
+	public List<Books> getTopFive() {
+//		System.out.println("geeeet");
+//		System.out.println("top");
+		List<Books> books = new ArrayList<Books>();
+		List<Integer> bookIDs;
+		try {
+			bookIDs = (List<Integer>) entityManager.createQuery("SELECT o.BookID FROM Orders o GROUP BY o.BookID ORDER BY count(o.UserID) desc")
+					.setMaxResults(5)
+					.getResultList();
+			for (int id : bookIDs) {
+				Books book = null;
+				if (book == null) {
+					System.out.println("DB");
+					try {
+						book = (Books) entityManager.createQuery("SELECT b FROM Books b WHERE b.id=:id")
+			        			.setParameter("id", id)
+								.getSingleResult();  
+					}
+					catch (NoResultException ex) {
+			    		book = null;
+			    	}
+				}
+				if (book != null) {
+					books.add(book);
+				}
+			}
+		}
+		catch (NoResultException ex) {
+			books = null;
+		}
+		return books;
+	}
+
+	public String getDescription(int id) {
+		Books book = getBookByID(id);
+		return book == null ? "" : book.getDescription();
+	}
+    
+	private Books getDescriptionByID(int id) {
+		String description = null;
+    	Books book = null;
+    	String key = "BookID: " + id;
+		description = MyCache.getInstance().get(key);
+		System.out.println(description);
+		if (description == null) {
+			try {
+				book = (Books) entityManager.createQuery("SELECT b FROM Books b WHERE b.id=:id")
+	        			.setParameter("id", id)
+						.getSingleResult();  
+				MyCache.getInstance().set(key, book.getDescription());
+				description = book.getDescription();
+			}
+			catch (NoResultException ex) {
+	    		book = null;
+	    	}
+		}
+
+		return description;
+    }
+	
+	public Books getBook(int id) {
+		System.out.println("id"+id);
+		return getBookByID(id);
+	}
+	
+}

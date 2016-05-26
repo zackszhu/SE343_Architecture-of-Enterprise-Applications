@@ -1,0 +1,10 @@
+package com.bookstore.memcached;
+
+import javax.ejb.Local;
+
+import com.danga.MemCached.MemCachedClient;
+
+@Local
+public interface MyMemCacheLocal {
+	public MemCachedClient getClient()
+}

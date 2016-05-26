@@ -1,0 +1,8 @@
+package com.bookstore.memcached;
+
+import javax.ejb.Remote;
+
+@Remote
+public interface MyMemCacheRemote {
+
+}

@@ -1,0 +1,11 @@
+package com.bookstore.ejb;
+
+public aspect Logging {
+	pointcut log() : execution(* src.com.bookstore.ejb.*.*(..));
+	
+	before() : log(){  
+		System.out.println("Hello world");  
+	}
+
+
+}

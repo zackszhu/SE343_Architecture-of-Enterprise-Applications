@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="true" key="J2EE_EXPORT_OVERWRITE"/>
+	<item value="true" key="J2EE_EXPORT_SOURCE"/>
+	<list key="J2EE_EXPORT_JST_EJB">
+		<item value="/home/zacks/eclipse/Projects/BookStoreWeb/WebContent/WEB-INF/lib/BookStoreEJB.jar"/>
+	</list>
+	<list key="MRU_RUNTIME_STORE">
+		<item value="JBoss EAP 6.1+ Runtime"/>
+	</list>
+</section>

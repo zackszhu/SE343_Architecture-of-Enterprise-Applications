@@ -1,0 +1,12 @@
+package com.bookstore.ws;
+
+@WebService(endpointInterface = "com.bookstore.ws.HelloWorld")
+public class HelloWorldImpl implements HelloWorld {
+
+	@Override
+	public String Hello() {
+		// TODO Auto-generated method stub
+		return "Hello";
+	}
+
+}

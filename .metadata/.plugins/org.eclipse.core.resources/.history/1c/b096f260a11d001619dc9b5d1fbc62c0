@@ -1,0 +1,11 @@
+package com.bookstore.ws;
+
+public class HelloWorldImpl implements HelloWorld {
+
+	@Override
+	public String Hello() {
+		// TODO Auto-generated method stub
+		return "Hello";
+	}
+
+}

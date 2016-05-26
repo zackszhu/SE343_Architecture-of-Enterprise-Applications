@@ -1,0 +1,20 @@
+package com.bookstore.memcached;
+
+import javax.ejb.LocalBean;
+import javax.ejb.Stateless;
+
+/**
+ * Session Bean implementation class MyMemCache
+ */
+@Stateless
+@LocalBean
+public class MyMemCache implements MyMemCacheLocal {
+
+    /**
+     * Default constructor. 
+     */
+    public MyMemCache() {
+        // TODO Auto-generated constructor stub
+    }
+
+}

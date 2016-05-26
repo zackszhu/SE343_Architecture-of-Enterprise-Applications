@@ -1,0 +1,26 @@
+package com.bookstore.ws;
+
+import javax.ejb.EJB;
+import javax.jws.WebMethod;
+import javax.jws.WebService;
+
+import com.bookstore.ejb.BookListBeanRemote;
+
+@WebService
+public class HelloWorldImpl{
+	
+	@EJB
+	private BookListBeanRemote bookListBeanRemote;
+
+	private String message = new String("Hello, ");
+
+    public void Hello() {
+    }
+
+    @WebMethod
+    public String sayHello(int id) {
+    	String description = bookListBeanRemote.getDescription(id);
+        return message;
+    }
+
+}

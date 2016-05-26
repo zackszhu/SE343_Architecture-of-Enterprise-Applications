@@ -1,0 +1,6 @@
+login = Login
+username = Username
+password = Password
+error = Wrong Username or Password.
+submit = Submit
+signin = Sign in

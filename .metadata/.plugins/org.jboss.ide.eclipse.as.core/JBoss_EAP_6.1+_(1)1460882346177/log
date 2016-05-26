@@ -1,0 +1,2472 @@
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-04-17 16:39:53.121
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-04-17 16:39:57.853
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-04-17 16:47:49.115
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-04-17 16:47:49.224
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-04-17 16:47:49.330
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-04-17 16:47:55.671
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-04-17 17:21:28.269
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-04-17 17:21:28.493
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-04-17 17:21:38.650
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-04-17 17:21:41.865
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-04-17 17:21:41.892
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-04-18 13:11:11.151
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-04-18 13:11:11.356
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-04-18 13:11:18.712
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-04-18 13:11:23.452
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-04-18 13:15:45.300
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-04-18 13:15:45.506
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-04-18 13:15:45.631
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 16973826 2016-04-18 13:15:46.065
+!MESSAGE The server was shutdown forcefully. All processes were terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-04-18 13:15:53.715
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-04-18 13:15:56.742
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-04-18 13:24:48.634
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-04-18 13:24:48.842
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-04-18 13:24:48.884
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-04-18 13:24:52.233
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-04-18 13:25:55.631
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-04-18 13:25:56.705
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-04-18 13:25:56.739
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 16842768 2016-04-18 13:25:56.741
+!MESSAGE Poll Thread Aborted: null
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-04-18 13:26:01.268
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-04-18 13:26:59.581
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-04-18 13:27:00.693
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-04-18 13:27:40.628
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-04-18 13:27:43.751
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-04-18 13:27:43.770
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-04-18 13:31:15.145
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-04-18 13:31:15.359
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-04-18 13:31:15.379
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-04-18 13:31:18.704
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-04-18 14:17:53.996
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-04-18 14:17:54.212
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-04-18 14:17:54.348
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-04-18 14:17:57.287
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-04-18 14:19:09.945
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-04-18 14:19:16.100
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-04-18 14:19:17.174
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-04-18 14:19:24.140
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-04-18 14:19:28.270
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-04-18 14:19:28.308
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-04-18 14:19:29.957
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-04-18 14:19:48.319
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-04-18 14:22:39.060
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-04-18 14:22:39.263
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-04-18 14:22:39.315
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-04-18 14:22:43.260
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-04-18 14:29:00.821
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-04-18 14:29:00.927
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-04-18 14:29:00.963
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-04-18 14:29:03.978
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-04-18 14:38:18.284
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-04-18 14:38:18.416
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-04-18 14:38:18.477
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-04-18 14:38:21.421
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-04-18 14:54:35.210
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-04-18 14:54:35.414
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-04-18 14:54:35.476
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-04-18 14:54:38.505
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-04-18 15:00:23.652
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-04-18 15:00:23.775
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-04-18 15:00:23.813
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-04-18 15:00:27.035
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-04-18 15:00:59.172
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-04-18 15:00:59.478
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-04-18 15:01:04.846
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-04-18 15:01:07.662
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-04-18 15:04:08.036
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-04-18 15:04:08.345
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-04-18 15:04:08.374
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-04-18 15:04:12.000
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-04-18 15:13:10.121
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-04-18 15:13:10.329
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-04-18 15:13:10.355
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-04-18 15:13:13.185
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-04-18 15:13:49.200
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-04-18 15:13:49.409
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-04-18 15:13:49.434
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-04-18 15:13:53.160
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-04-18 15:15:22.720
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-04-18 15:15:23.022
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-04-18 15:15:23.039
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-04-18 15:15:25.962
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-04-18 16:03:35.523
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-04-18 16:03:35.648
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-04-18 16:03:35.686
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-04-18 16:03:39.930
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-04-18 16:05:28.842
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-04-18 16:05:29.049
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-04-18 16:05:29.091
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-04-18 16:05:32.541
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-03 11:01:12.185
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-03 11:01:12.313
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-03 11:01:12.447
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-03 11:01:22.623
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-18 17:53:58.479
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-18 17:53:58.690
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-18 17:53:58.739
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-18 17:54:03.274
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-18 18:01:51.895
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-18 18:01:52.121
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-18 18:01:52.151
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-18 18:01:55.486
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-18 18:13:27.593
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-18 18:13:27.798
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-18 18:13:27.851
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-18 18:13:30.773
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-18 18:15:22.491
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-18 18:15:22.704
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-18 18:15:22.728
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-18 18:15:22.763
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-18 18:15:26.484
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-18 18:17:12.526
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-18 18:17:12.646
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-18 18:17:12.654
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-18 18:17:12.686
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-18 18:17:16.613
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-18 18:17:51.133
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-18 18:17:51.341
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-18 18:17:51.351
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-18 18:17:51.385
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-18 18:17:54.907
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-18 18:22:25.042
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-18 18:22:25.246
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-18 18:22:30.442
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-18 18:22:30.455
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-18 18:22:33.775
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-18 18:22:33.784
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-18 18:24:07.666
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-05-18 18:24:08.723
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-18 18:24:08.739
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-18 18:24:08.757
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 16842768 2016-05-18 18:24:08.775
+!MESSAGE Poll Thread Aborted: null
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-18 18:24:12.780
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-18 18:26:16.709
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-18 18:26:16.820
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-18 18:26:20.978
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-18 18:26:20.990
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-18 18:26:24.510
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-18 18:26:24.517
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-18 18:27:26.426
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-18 18:27:26.642
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-18 18:27:29.613
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-18 18:27:29.649
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-18 18:27:32.470
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-18 18:27:32.478
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-18 18:31:32.668
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-18 18:31:32.874
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-18 18:31:32.882
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-18 18:31:32.900
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-18 18:31:36.628
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-18 18:46:37.167
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-18 18:46:37.418
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-18 18:46:40.624
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-18 18:46:40.639
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-18 18:46:44.266
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-18 18:46:49.413
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-18 18:46:49.621
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-18 18:47:33.627
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-18 18:47:33.635
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-18 18:47:37.159
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-18 18:47:37.174
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-18 18:49:39.558
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-18 18:49:39.767
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-18 18:49:45.635
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-18 18:49:45.651
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-18 18:49:49.183
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-18 18:49:49.192
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-18 18:50:56.015
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-05-18 18:50:57.098
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-18 18:51:04.981
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-18 18:51:04.993
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-18 18:51:08.712
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-18 18:51:08.742
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-18 18:53:08.177
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-05-18 18:53:08.335
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-18 18:53:14.041
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-18 18:53:14.068
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-18 18:53:17.687
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-18 18:53:17.694
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-05-18 18:53:37.748
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-18 18:53:54.949
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-18 18:54:02.384
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-05-18 18:54:02.583
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-18 18:54:09.643
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-18 18:54:09.653
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-18 18:54:12.383
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-18 18:54:12.408
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-05-18 18:54:14.959
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-05-18 18:54:32.419
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-18 18:55:08.974
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-18 18:55:09.077
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-18 18:55:12.862
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-18 18:55:12.874
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-18 18:55:16.501
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-18 18:55:16.514
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-05-18 18:55:36.528
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-18 18:57:44.782
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-05-18 18:57:44.960
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-18 18:57:47.797
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-18 18:57:47.809
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-18 18:57:50.729
+!MESSAGE Server Startup Succeeded
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-18 19:04:51.433
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-18 19:04:51.822
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-18 19:04:56.107
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-18 19:05:30.605
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-18 19:05:30.813
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-18 19:06:46.147
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-18 19:06:46.167
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-18 19:06:49.505
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-18 19:06:49.522
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-05-18 19:07:11.548
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) still not ready to be shown in browser. Aborting delay.
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-18 19:08:03.406
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-18 19:08:03.823
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-18 19:08:07.792
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-18 19:08:48.026
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-05-18 19:08:49.081
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-18 19:09:09.163
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-18 19:09:09.193
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-18 19:09:12.825
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-18 19:09:12.852
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-05-18 19:09:19.239
+!MESSAGE Error occurred while checking module state for BookStoreEJB on server JBoss EAP 6.1+ (1)
+!STACK 0
+org.eclipse.core.runtime.AssertionFailedException: assertion failed: The application has not been initialized.
+	at org.eclipse.core.runtime.Assert.isTrue(Assert.java:110)
+	at org.eclipse.core.internal.runtime.InternalPlatform.assertInitialized(InternalPlatform.java:139)
+	at org.eclipse.core.internal.runtime.InternalPlatform.getAdapterManager(InternalPlatform.java:160)
+	at org.eclipse.core.runtime.Platform.getAdapterManager(Platform.java:601)
+	at org.eclipse.wst.server.core.internal.Server.loadAdapter(Server.java:1620)
+	at org.jboss.tools.as.core.server.controllable.systems.AbstractJBossDeploymentOptionsController.getExtendedProperties(AbstractJBossDeploymentOptionsController.java:181)
+	at org.jboss.tools.as.core.server.controllable.subsystems.internal.LocalDeploymentOptionsController.getDeployFolder(LocalDeploymentOptionsController.java:68)
+	at org.jboss.tools.as.core.server.controllable.systems.AbstractJBossDeploymentOptionsController.getDeploymentsRootFolder(AbstractJBossDeploymentOptionsController.java:78)
+	at org.jboss.tools.as.core.server.controllable.subsystems.internal.ModuleDeployPathController.getDefaultDeployFolder(ModuleDeployPathController.java:71)
+	at org.jboss.tools.as.core.server.controllable.subsystems.internal.ModuleDeployPathController.getDeployDirectory(ModuleDeployPathController.java:110)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.JBoss7FSModuleStateVerifier.getModuleDeployRoot(JBoss7FSModuleStateVerifier.java:69)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.JBoss7FSModuleStateVerifier.getRootModuleState(JBoss7FSModuleStateVerifier.java:99)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.AbstractJBoss7ModuleStateVerifier.getModuleState(AbstractJBoss7ModuleStateVerifier.java:66)
+	at org.jboss.ide.eclipse.as.core.server.internal.UpdateModuleStateJob.getModuleState(UpdateModuleStateJob.java:128)
+	at org.jboss.ide.eclipse.as.core.server.internal.UpdateModuleStateJob.runWait(UpdateModuleStateJob.java:94)
+	at org.jboss.ide.eclipse.as.core.server.internal.UpdateModuleStateJob.run(UpdateModuleStateJob.java:79)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-05-18 19:09:19.240
+!MESSAGE Error occurred while checking module state for BookStoreWeb on server JBoss EAP 6.1+ (1)
+!STACK 0
+org.eclipse.core.runtime.AssertionFailedException: assertion failed: The application has not been initialized.
+	at org.eclipse.core.runtime.Assert.isTrue(Assert.java:110)
+	at org.eclipse.core.internal.runtime.InternalPlatform.assertInitialized(InternalPlatform.java:139)
+	at org.eclipse.core.internal.runtime.InternalPlatform.getAdapterManager(InternalPlatform.java:160)
+	at org.eclipse.core.runtime.Platform.getAdapterManager(Platform.java:601)
+	at org.eclipse.wst.server.core.internal.Server.loadAdapter(Server.java:1620)
+	at org.jboss.tools.as.core.server.controllable.systems.AbstractJBossDeploymentOptionsController.getExtendedProperties(AbstractJBossDeploymentOptionsController.java:181)
+	at org.jboss.tools.as.core.server.controllable.subsystems.internal.LocalDeploymentOptionsController.getDeployFolder(LocalDeploymentOptionsController.java:68)
+	at org.jboss.tools.as.core.server.controllable.systems.AbstractJBossDeploymentOptionsController.getDeploymentsRootFolder(AbstractJBossDeploymentOptionsController.java:78)
+	at org.jboss.tools.as.core.server.controllable.subsystems.internal.ModuleDeployPathController.getDefaultDeployFolder(ModuleDeployPathController.java:71)
+	at org.jboss.tools.as.core.server.controllable.subsystems.internal.ModuleDeployPathController.getDeployDirectory(ModuleDeployPathController.java:110)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.JBoss7FSModuleStateVerifier.getModuleDeployRoot(JBoss7FSModuleStateVerifier.java:69)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.JBoss7FSModuleStateVerifier.getRootModuleState(JBoss7FSModuleStateVerifier.java:99)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.AbstractJBoss7ModuleStateVerifier.getModuleState(AbstractJBoss7ModuleStateVerifier.java:66)
+	at org.jboss.ide.eclipse.as.core.server.internal.UpdateModuleStateJob.getModuleState(UpdateModuleStateJob.java:128)
+	at org.jboss.ide.eclipse.as.core.server.internal.UpdateModuleStateJob.runWait(UpdateModuleStateJob.java:94)
+	at org.jboss.ide.eclipse.as.core.server.internal.UpdateModuleStateJob.run(UpdateModuleStateJob.java:79)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-18 19:09:42.584
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-18 19:09:43.017
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-18 19:09:46.651
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-18 19:09:55.499
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-18 19:09:55.706
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-18 19:10:01.784
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-18 19:10:01.816
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-18 19:10:05.534
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-18 19:10:05.539
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-18 19:21:36.332
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-18 19:21:41.815
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-18 19:21:41.935
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-18 19:21:45.163
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-18 19:21:45.238
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-18 19:21:48.881
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-18 19:21:48.883
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-05-18 19:21:56.344
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-05-18 19:22:08.896
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-18 19:32:44.987
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-18 19:32:45.206
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-18 19:32:45.223
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-18 19:32:45.256
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-18 19:32:48.888
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-18 19:32:56.129
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-18 19:32:56.342
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-05-18 19:32:59.408
+!MESSAGE Error occurred while checking module state for BookStoreEJB on server JBoss EAP 6.1+ (1)
+!STACK 0
+org.eclipse.core.runtime.AssertionFailedException: assertion failed: The application has not been initialized.
+	at org.eclipse.core.runtime.Assert.isTrue(Assert.java:110)
+	at org.eclipse.core.internal.runtime.InternalPlatform.assertInitialized(InternalPlatform.java:139)
+	at org.eclipse.core.internal.runtime.InternalPlatform.getAdapterManager(InternalPlatform.java:160)
+	at org.eclipse.core.runtime.Platform.getAdapterManager(Platform.java:601)
+	at org.eclipse.wst.server.core.internal.Server.loadAdapter(Server.java:1620)
+	at org.jboss.tools.as.core.server.controllable.systems.AbstractJBossDeploymentOptionsController.getExtendedProperties(AbstractJBossDeploymentOptionsController.java:181)
+	at org.jboss.tools.as.core.server.controllable.subsystems.internal.LocalDeploymentOptionsController.getDeployFolder(LocalDeploymentOptionsController.java:68)
+	at org.jboss.tools.as.core.server.controllable.systems.AbstractJBossDeploymentOptionsController.getDeploymentsRootFolder(AbstractJBossDeploymentOptionsController.java:78)
+	at org.jboss.tools.as.core.server.controllable.subsystems.internal.ModuleDeployPathController.getDefaultDeployFolder(ModuleDeployPathController.java:71)
+	at org.jboss.tools.as.core.server.controllable.subsystems.internal.ModuleDeployPathController.getDeployDirectory(ModuleDeployPathController.java:110)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.JBoss7FSModuleStateVerifier.getModuleDeployRoot(JBoss7FSModuleStateVerifier.java:69)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.JBoss7FSModuleStateVerifier.getRootModuleState(JBoss7FSModuleStateVerifier.java:99)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.AbstractJBoss7ModuleStateVerifier.getModuleState(AbstractJBoss7ModuleStateVerifier.java:66)
+	at org.jboss.ide.eclipse.as.core.server.internal.UpdateModuleStateJob.getModuleState(UpdateModuleStateJob.java:128)
+	at org.jboss.ide.eclipse.as.core.server.internal.UpdateModuleStateJob.runWait(UpdateModuleStateJob.java:94)
+	at org.jboss.ide.eclipse.as.core.server.internal.UpdateModuleStateJob.run(UpdateModuleStateJob.java:79)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-05-18 19:32:59.412
+!MESSAGE Error occurred while checking module state for BookStoreWeb on server JBoss EAP 6.1+ (1)
+!STACK 0
+org.eclipse.core.runtime.AssertionFailedException: assertion failed: The application has not been initialized.
+	at org.eclipse.core.runtime.Assert.isTrue(Assert.java:110)
+	at org.eclipse.core.internal.runtime.InternalPlatform.assertInitialized(InternalPlatform.java:139)
+	at org.eclipse.core.internal.runtime.InternalPlatform.getAdapterManager(InternalPlatform.java:160)
+	at org.eclipse.core.runtime.Platform.getAdapterManager(Platform.java:601)
+	at org.eclipse.wst.server.core.internal.Server.loadAdapter(Server.java:1620)
+	at org.jboss.tools.as.core.server.controllable.systems.AbstractJBossDeploymentOptionsController.getExtendedProperties(AbstractJBossDeploymentOptionsController.java:181)
+	at org.jboss.tools.as.core.server.controllable.subsystems.internal.LocalDeploymentOptionsController.getDeployFolder(LocalDeploymentOptionsController.java:68)
+	at org.jboss.tools.as.core.server.controllable.systems.AbstractJBossDeploymentOptionsController.getDeploymentsRootFolder(AbstractJBossDeploymentOptionsController.java:78)
+	at org.jboss.tools.as.core.server.controllable.subsystems.internal.ModuleDeployPathController.getDefaultDeployFolder(ModuleDeployPathController.java:71)
+	at org.jboss.tools.as.core.server.controllable.subsystems.internal.ModuleDeployPathController.getDeployDirectory(ModuleDeployPathController.java:110)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.JBoss7FSModuleStateVerifier.getModuleDeployRoot(JBoss7FSModuleStateVerifier.java:69)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.JBoss7FSModuleStateVerifier.getRootModuleState(JBoss7FSModuleStateVerifier.java:99)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.AbstractJBoss7ModuleStateVerifier.getModuleState(AbstractJBoss7ModuleStateVerifier.java:66)
+	at org.jboss.ide.eclipse.as.core.server.internal.UpdateModuleStateJob.getModuleState(UpdateModuleStateJob.java:128)
+	at org.jboss.ide.eclipse.as.core.server.internal.UpdateModuleStateJob.runWait(UpdateModuleStateJob.java:94)
+	at org.jboss.ide.eclipse.as.core.server.internal.UpdateModuleStateJob.run(UpdateModuleStateJob.java:79)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-18 19:36:58.524
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-18 19:36:58.894
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-18 19:37:02.861
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-18 19:41:41.190
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-18 19:41:41.329
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-18 19:41:44.644
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-18 19:41:44.696
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-18 19:41:48.326
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-18 19:41:48.334
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-18 20:55:37.935
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-18 20:55:38.318
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-18 20:55:44.269
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-18 21:31:23.965
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-18 21:31:24.171
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-18 21:31:29.058
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-18 21:31:29.098
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-18 21:31:32.414
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-18 21:31:32.419
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-18 21:32:45.102
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-18 21:32:45.210
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-18 21:32:50.389
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-18 21:32:50.402
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-18 21:32:54.218
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-18 21:32:54.226
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-05-18 21:33:14.239
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-18 21:49:49.984
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-18 21:49:50.110
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-18 21:49:58.187
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-18 21:49:58.219
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-18 21:50:01.741
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-18 21:50:01.759
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-05-18 21:50:21.771
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-18 21:53:40.448
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-18 21:53:40.554
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-18 21:53:45.442
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-18 21:53:45.467
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-18 21:53:48.607
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-18 21:53:48.635
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-05-18 21:54:10.647
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-18 21:54:37.994
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-18 21:54:38.203
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-18 21:54:41.475
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-18 21:54:41.488
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-18 21:54:45.420
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-18 21:54:45.438
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-18 22:00:21.614
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-18 22:00:21.819
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-18 22:00:21.830
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-18 22:00:21.867
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-18 22:00:25.788
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-18 22:00:45.230
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-05-18 22:00:46.322
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-18 22:00:49.504
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-18 22:00:49.537
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-18 22:00:53.455
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-18 22:00:53.467
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-18 22:01:25.529
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-18 22:01:25.741
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-18 22:01:42.251
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-18 22:01:42.270
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-18 22:01:46.292
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-18 22:01:46.298
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-18 22:06:22.578
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-18 22:06:22.689
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-18 22:06:26.829
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-18 22:06:26.850
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-18 22:06:31.076
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-18 22:06:31.087
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-05-18 22:06:53.096
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-18 22:07:43.656
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-18 22:07:43.760
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-18 22:07:55.474
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-18 22:07:55.487
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-18 22:07:59.304
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-18 22:07:59.341
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-05-18 22:08:07.348
+!MESSAGE Error occurred while waiting for BookStoreWeb to start on server JBoss EAP 6.1+ (1)
+!STACK 0
+org.eclipse.core.runtime.AssertionFailedException: assertion failed: The application has not been initialized.
+	at org.eclipse.core.runtime.Assert.isTrue(Assert.java:110)
+	at org.eclipse.core.internal.runtime.InternalPlatform.assertInitialized(InternalPlatform.java:139)
+	at org.eclipse.core.internal.runtime.InternalPlatform.getAdapterManager(InternalPlatform.java:160)
+	at org.eclipse.core.runtime.Platform.getAdapterManager(Platform.java:601)
+	at org.eclipse.wst.server.core.internal.Server.loadAdapter(Server.java:1620)
+	at org.jboss.tools.as.core.server.controllable.systems.AbstractJBossDeploymentOptionsController.getExtendedProperties(AbstractJBossDeploymentOptionsController.java:181)
+	at org.jboss.tools.as.core.server.controllable.subsystems.internal.LocalDeploymentOptionsController.getDeployFolder(LocalDeploymentOptionsController.java:68)
+	at org.jboss.tools.as.core.server.controllable.systems.AbstractJBossDeploymentOptionsController.getDeploymentsRootFolder(AbstractJBossDeploymentOptionsController.java:78)
+	at org.jboss.tools.as.core.server.controllable.subsystems.internal.ModuleDeployPathController.getDefaultDeployFolder(ModuleDeployPathController.java:71)
+	at org.jboss.tools.as.core.server.controllable.subsystems.internal.ModuleDeployPathController.getDeployDirectory(ModuleDeployPathController.java:110)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.JBoss7FSModuleStateVerifier.getModuleDeployRoot(JBoss7FSModuleStateVerifier.java:69)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.JBoss7FSModuleStateVerifier.getRootModuleState(JBoss7FSModuleStateVerifier.java:99)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.AbstractJBoss7ModuleStateVerifier.isRootModuleStarted(AbstractJBoss7ModuleStateVerifier.java:98)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.AbstractJBoss7ModuleStateVerifier.waitModuleStarted(AbstractJBoss7ModuleStateVerifier.java:108)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.AbstractJBoss7ModuleStateVerifier.waitModuleStarted(AbstractJBoss7ModuleStateVerifier.java:49)
+	at org.jboss.ide.eclipse.as.ui.launch.JBTWebLaunchableClient.wait(JBTWebLaunchableClient.java:97)
+	at org.jboss.ide.eclipse.as.ui.launch.JBTWebLaunchableClient.launch2(JBTWebLaunchableClient.java:61)
+	at org.jboss.ide.eclipse.as.ui.launch.JBTWebLaunchableClient$1.run(JBTWebLaunchableClient.java:53)
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-05-18 22:08:07.452
+!MESSAGE Error occurred while checking module state for BookStoreEJB on server JBoss EAP 6.1+ (1)
+!STACK 0
+org.eclipse.core.runtime.AssertionFailedException: assertion failed: The application has not been initialized.
+	at org.eclipse.core.runtime.Assert.isTrue(Assert.java:110)
+	at org.eclipse.core.internal.runtime.InternalPlatform.assertInitialized(InternalPlatform.java:139)
+	at org.eclipse.core.internal.runtime.InternalPlatform.getAdapterManager(InternalPlatform.java:160)
+	at org.eclipse.core.runtime.Platform.getAdapterManager(Platform.java:601)
+	at org.eclipse.wst.server.core.internal.Server.loadAdapter(Server.java:1620)
+	at org.jboss.tools.as.core.server.controllable.systems.AbstractJBossDeploymentOptionsController.getExtendedProperties(AbstractJBossDeploymentOptionsController.java:181)
+	at org.jboss.tools.as.core.server.controllable.subsystems.internal.LocalDeploymentOptionsController.getDeployFolder(LocalDeploymentOptionsController.java:68)
+	at org.jboss.tools.as.core.server.controllable.systems.AbstractJBossDeploymentOptionsController.getDeploymentsRootFolder(AbstractJBossDeploymentOptionsController.java:78)
+	at org.jboss.tools.as.core.server.controllable.subsystems.internal.ModuleDeployPathController.getDefaultDeployFolder(ModuleDeployPathController.java:71)
+	at org.jboss.tools.as.core.server.controllable.subsystems.internal.ModuleDeployPathController.getDeployDirectory(ModuleDeployPathController.java:110)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.JBoss7FSModuleStateVerifier.getModuleDeployRoot(JBoss7FSModuleStateVerifier.java:69)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.JBoss7FSModuleStateVerifier.getRootModuleState(JBoss7FSModuleStateVerifier.java:99)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.AbstractJBoss7ModuleStateVerifier.getModuleState(AbstractJBoss7ModuleStateVerifier.java:66)
+	at org.jboss.ide.eclipse.as.core.server.internal.UpdateModuleStateJob.getModuleState(UpdateModuleStateJob.java:128)
+	at org.jboss.ide.eclipse.as.core.server.internal.UpdateModuleStateJob.runWait(UpdateModuleStateJob.java:94)
+	at org.jboss.ide.eclipse.as.core.server.internal.UpdateModuleStateJob.run(UpdateModuleStateJob.java:79)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-05-18 22:08:07.452
+!MESSAGE Error occurred while checking module state for BookStoreWeb on server JBoss EAP 6.1+ (1)
+!STACK 0
+org.eclipse.core.runtime.AssertionFailedException: assertion failed: The application has not been initialized.
+	at org.eclipse.core.runtime.Assert.isTrue(Assert.java:110)
+	at org.eclipse.core.internal.runtime.InternalPlatform.assertInitialized(InternalPlatform.java:139)
+	at org.eclipse.core.internal.runtime.InternalPlatform.getAdapterManager(InternalPlatform.java:160)
+	at org.eclipse.core.runtime.Platform.getAdapterManager(Platform.java:601)
+	at org.eclipse.wst.server.core.internal.Server.loadAdapter(Server.java:1620)
+	at org.jboss.tools.as.core.server.controllable.systems.AbstractJBossDeploymentOptionsController.getExtendedProperties(AbstractJBossDeploymentOptionsController.java:181)
+	at org.jboss.tools.as.core.server.controllable.subsystems.internal.LocalDeploymentOptionsController.getDeployFolder(LocalDeploymentOptionsController.java:68)
+	at org.jboss.tools.as.core.server.controllable.systems.AbstractJBossDeploymentOptionsController.getDeploymentsRootFolder(AbstractJBossDeploymentOptionsController.java:78)
+	at org.jboss.tools.as.core.server.controllable.subsystems.internal.ModuleDeployPathController.getDefaultDeployFolder(ModuleDeployPathController.java:71)
+	at org.jboss.tools.as.core.server.controllable.subsystems.internal.ModuleDeployPathController.getDeployDirectory(ModuleDeployPathController.java:110)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.JBoss7FSModuleStateVerifier.getModuleDeployRoot(JBoss7FSModuleStateVerifier.java:69)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.JBoss7FSModuleStateVerifier.getRootModuleState(JBoss7FSModuleStateVerifier.java:99)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.AbstractJBoss7ModuleStateVerifier.getModuleState(AbstractJBoss7ModuleStateVerifier.java:66)
+	at org.jboss.ide.eclipse.as.core.server.internal.UpdateModuleStateJob.getModuleState(UpdateModuleStateJob.java:128)
+	at org.jboss.ide.eclipse.as.core.server.internal.UpdateModuleStateJob.runWait(UpdateModuleStateJob.java:94)
+	at org.jboss.ide.eclipse.as.core.server.internal.UpdateModuleStateJob.run(UpdateModuleStateJob.java:79)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-18 22:08:40.222
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-18 22:08:40.426
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-18 22:08:44.534
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-18 22:08:44.555
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-18 22:12:55.439
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-18 22:12:55.656
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-18 22:12:58.623
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-18 22:12:58.645
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-18 22:13:02.480
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-18 22:13:02.508
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-18 22:14:21.048
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-18 22:14:21.282
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-18 22:14:24.462
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-18 22:14:24.490
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-18 22:14:29.712
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-18 22:14:29.757
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-18 22:15:07.577
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-18 22:15:07.810
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-18 22:15:10.789
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-18 22:15:10.808
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-18 22:15:14.727
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-18 22:15:14.744
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-18 22:15:31.044
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-18 22:15:31.249
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-18 22:15:43.829
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-18 22:15:43.844
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-18 22:15:48.769
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-18 22:15:48.808
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-18 22:16:19.137
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-18 22:16:19.348
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-18 22:18:19.325
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-18 22:18:19.339
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-18 22:18:24.873
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-18 22:18:24.874
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-18 22:20:52.239
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-18 22:20:52.379
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-18 22:20:56.190
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-18 22:20:56.210
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-18 22:20:59.549
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-18 22:20:59.580
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-19 07:45:23.575
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-19 07:45:24.134
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-19 07:45:26.972
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-19 07:46:17.216
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-19 07:46:17.426
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-19 08:27:51.072
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-19 08:27:51.133
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-19 08:27:54.780
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-19 08:28:47.255
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-19 08:28:47.367
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-19 08:28:50.715
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-19 08:28:50.731
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-19 08:28:54.364
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-19 08:28:54.410
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-19 08:29:12.929
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-19 08:29:13.040
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-05-19 08:29:14.423
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) still not ready to be shown in browser. Aborting delay.
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-19 08:31:11.820
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-19 08:31:12.231
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-19 08:31:15.869
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-19 08:38:06.376
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-19 08:38:06.603
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-19 08:38:10.074
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-19 08:38:10.591
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-19 08:38:14.310
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-19 08:38:14.337
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-19 08:40:11.636
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-19 08:40:11.769
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-19 08:40:16.339
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-19 08:40:16.365
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-19 08:40:20.290
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-19 08:40:20.315
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-19 08:42:50.276
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-19 08:42:50.482
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-19 08:42:53.466
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-19 08:42:53.483
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-19 08:42:57.414
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-19 08:42:57.447
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-19 08:50:09.226
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-19 08:50:09.456
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-19 08:50:13.537
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-19 08:50:13.563
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-19 08:50:17.187
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-19 08:50:17.191
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-19 08:51:02.106
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-19 08:51:02.310
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-19 10:40:56.169
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-19 10:40:56.201
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-19 10:41:00.319
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-19 10:41:24.000
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-05-19 10:41:25.090
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-19 11:13:03.879
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-19 11:13:03.899
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-19 11:13:07.873
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-19 11:13:07.923
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-19 11:14:12.590
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-19 11:14:12.693
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-19 11:24:51.932
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-19 11:24:51.967
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-19 11:24:56.115
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-19 11:24:56.138
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-19 11:31:34.412
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-19 11:31:34.631
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-19 11:32:30.169
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-19 11:32:30.189
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-19 11:32:34.112
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-19 11:32:34.120
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-19 11:33:18.681
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-19 11:33:18.885
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-19 11:33:23.982
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-19 11:33:23.999
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-19 11:33:27.129
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-19 11:33:27.147
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-05-19 11:33:47.161
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-19 14:48:48.635
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-19 14:48:48.838
+!MESSAGE Server Shutdown Succeeded
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-19 14:49:34.244
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-19 14:49:34.715
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-19 14:49:39.175
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-19 14:53:34.795
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-19 14:53:35.071
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-19 14:53:35.149
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-19 14:53:35.249
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-19 14:53:39.985
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-19 14:57:38.999
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-19 14:57:39.263
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-19 14:57:44.476
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-19 14:57:44.512
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-19 14:57:48.944
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-19 14:57:49.005
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-19 15:07:56.317
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-19 15:07:56.424
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-19 15:08:02.778
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-19 15:08:02.795
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-19 15:08:06.624
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-19 15:08:06.624
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-19 15:09:05.315
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-19 15:09:05.429
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-19 15:10:14.172
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-19 15:10:14.185
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-19 15:10:17.807
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-19 15:10:17.815
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-19 15:11:11.560
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-19 15:11:11.785
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-19 15:18:49.942
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-19 15:18:49.967
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-19 15:18:54.187
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-19 15:18:54.199
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-19 15:19:19.311
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-05-19 15:19:20.364
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-19 15:19:22.663
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-19 15:19:22.698
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-19 15:19:26.123
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-19 15:19:56.332
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-19 15:19:56.550
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-19 15:28:20.273
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-19 15:28:20.296
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-19 15:28:23.915
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-19 15:28:23.946
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-19 15:29:06.155
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-19 15:29:06.375
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-19 16:59:17.215
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-19 16:59:17.237
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-19 16:59:24.480
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-19 17:06:18.733
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-19 17:06:18.888
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-19 17:16:20.904
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-19 17:16:20.939
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-19 17:16:25.275
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-19 17:16:57.859
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-19 17:16:58.067
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-19 17:17:34.197
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-19 17:17:34.224
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-19 17:17:37.647
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-19 17:17:37.697
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-19 17:21:16.215
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-19 17:21:16.344
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-19 17:21:20.432
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-19 17:21:20.443
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-19 17:21:24.176
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-19 17:21:24.196
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-19 17:49:24.974
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-19 17:49:25.180
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-19 17:49:26.235
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-19 17:49:26.266
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-19 17:49:29.784
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-19 17:51:54.908
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-19 17:51:55.134
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-19 17:51:55.876
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-19 17:51:55.900
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-19 17:51:59.018
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-19 17:53:34.806
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-19 17:53:35.036
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-19 17:53:35.690
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-19 17:53:35.719
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-19 17:53:39.342
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-19 19:30:48.932
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-19 19:30:49.138
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-19 19:30:50.770
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-19 19:30:50.796
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-19 19:30:54.329
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-19 19:33:03.766
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-19 19:33:03.895
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-19 19:33:05.976
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-19 19:33:05.984
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-19 19:33:09.406
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-19 19:34:38.217
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-19 19:34:38.330
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-19 19:34:39.645
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-19 19:34:39.682
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-19 19:34:43.006
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-19 19:51:29.728
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-19 19:51:29.932
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-19 19:51:31.242
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-19 19:51:31.265
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-19 19:51:34.682
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-19 20:12:19.987
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-05-19 20:12:21.078
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-19 20:12:25.608
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-19 20:12:25.642
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-19 20:12:29.268
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-19 20:12:29.281
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-19 20:14:07.267
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-19 20:14:07.493
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-20 19:06:57.733
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-20 19:06:57.762
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-20 19:07:01.583
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-20 19:07:15.860
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-20 19:07:16.085
+!MESSAGE Server Shutdown Succeeded
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-20 19:08:24.975
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-20 19:08:25.491
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-20 19:08:29.940
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-20 19:08:29.965
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-21 13:39:18.860
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-21 13:39:18.976
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-21 13:39:28.875
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-21 13:39:28.917
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-21 13:39:31.647
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-21 14:06:04.695
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-21 14:06:04.906
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-21 14:13:16.634
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-21 14:13:16.684
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-21 14:13:20.322
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-21 14:13:25.099
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-21 14:13:25.302
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-21 14:13:29.839
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-21 14:13:29.875
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-21 14:13:33.607
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-21 14:13:33.619
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-21 14:17:58.078
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-21 14:17:58.212
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-21 14:18:04.206
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-21 14:18:04.241
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-21 14:18:07.475
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-21 14:18:07.491
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-21 14:31:18.458
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-21 14:31:18.669
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-21 14:31:21.834
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-21 14:31:21.858
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-21 14:31:25.483
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-21 14:31:25.519
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-21 14:31:53.462
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-21 14:31:53.612
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-21 14:31:58.085
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-21 14:31:58.099
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-21 14:32:02.122
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-21 14:32:02.163
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-21 14:46:39.447
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-21 14:46:39.654
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-21 14:46:46.179
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-21 14:46:46.207
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-21 14:46:50.029
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-21 14:46:50.047
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-05-21 14:47:10.061
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-21 14:47:53.870
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-21 14:47:53.977
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-21 14:47:57.985
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-21 14:47:58.008
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-21 14:48:01.630
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-21 14:48:01.668
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-21 14:48:34.603
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-21 14:48:34.725
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-21 14:48:37.927
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-21 14:48:37.936
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-21 14:48:41.556
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-21 14:48:41.585
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-21 14:48:58.219
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-21 14:48:58.347
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-21 14:49:19.210
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-21 14:49:19.220
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-21 14:49:22.646
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-21 14:49:22.657
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-21 14:49:35.914
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-21 14:49:36.038
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-05-21 14:49:44.848
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-21 14:50:33.467
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-21 14:50:33.479
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-21 14:50:37.206
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-21 14:50:37.210
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-21 14:51:52.900
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-21 14:51:53.015
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-21 14:51:57.061
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-21 14:51:57.075
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-21 14:52:00.494
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-21 14:52:00.498
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-21 14:56:06.302
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-21 14:56:06.514
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-21 14:56:54.551
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-21 14:56:54.560
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-21 14:56:58.187
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-21 14:56:58.196
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-21 14:59:01.921
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-21 14:59:02.032
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-21 15:49:53.909
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-21 15:49:53.953
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-21 15:49:57.586
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-21 15:49:57.595
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-21 16:00:03.047
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-21 16:00:03.250
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-21 16:00:26.695
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-21 16:00:26.718
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-21 16:00:30.338
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-21 16:00:30.349
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-21 16:04:13.874
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-21 16:04:14.085
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-21 16:04:21.548
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-21 16:04:21.563
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-21 16:04:24.580
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-21 16:04:24.624
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-21 16:08:22.543
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-21 16:08:22.777
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-21 16:08:26.237
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-21 16:08:26.275
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-21 16:08:29.800
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-21 16:08:29.812
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-21 16:12:21.290
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-21 16:12:21.494
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-21 16:12:26.895
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-21 16:12:26.912
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-21 16:12:31.047
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-21 16:12:31.069
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-21 16:13:33.957
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-21 16:13:34.171
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-21 16:13:39.599
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-21 16:13:39.623
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-21 16:13:43.136
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-21 16:13:43.195
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-21 17:15:20.324
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-21 17:15:20.550
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-21 17:15:25.974
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-21 17:15:25.984
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-21 17:15:28.942
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-21 17:15:28.953
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-21 17:19:27.329
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-21 17:19:27.446
+!MESSAGE Server Shutdown Succeeded
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-22 09:26:49.373
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-22 09:26:49.812
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-22 09:26:56.463
+!MESSAGE Server Startup Succeeded
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-22 14:18:49.575
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-22 14:18:50.709
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-22 14:19:23.881
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-22 14:32:03.795
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-22 14:32:03.899
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-22 14:32:10.681
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-22 14:32:10.725
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-22 14:32:14.450
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-22 14:32:14.459
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-22 14:33:36.586
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-22 14:33:36.796
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-22 14:33:40.739
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-22 14:33:40.769
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-22 14:33:44.497
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-22 14:33:44.503
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-22 14:37:42.192
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-22 14:37:42.400
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-22 14:37:47.610
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-22 14:37:47.632
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-22 14:37:51.061
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-22 14:37:51.067
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-22 14:41:59.195
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-22 14:41:59.417
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-22 14:42:03.123
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-22 14:42:03.142
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-22 14:42:06.863
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-22 14:42:06.873
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-22 14:45:48.120
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-22 14:45:48.327
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-22 14:45:51.281
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-22 14:45:51.295
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-22 14:45:54.125
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-22 14:45:54.181
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-22 14:46:31.085
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-22 14:46:31.341
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-22 14:46:38.078
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-22 14:46:38.101
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-22 14:46:41.015
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-22 14:46:41.195
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-22 14:48:03.883
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-22 14:48:04.092
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-22 14:48:08.286
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-22 14:48:08.309
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-22 14:48:11.629
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-22 14:48:11.654
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-22 14:48:56.556
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-22 14:48:56.768
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-22 14:48:59.674
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-22 14:48:59.683
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-22 14:49:03.106
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-22 14:49:03.157
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-22 14:49:57.096
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-22 14:49:57.303
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-22 14:50:00.140
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-22 14:50:00.157
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-22 14:50:03.385
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-22 14:50:03.409
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-22 17:34:34.726
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-22 17:34:34.931
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-22 17:38:56.515
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-22 17:38:56.545
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-22 17:39:00.263
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-22 17:39:00.270
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-22 17:41:16.197
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-22 17:41:16.419
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-22 17:46:42.720
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-22 17:46:42.737
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-22 17:46:46.351
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-22 17:46:46.378
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-22 17:48:35.886
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-22 17:48:36.100
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-22 17:49:04.484
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-22 17:49:04.499
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-22 17:49:08.015
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-22 17:49:08.045
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-05-22 17:50:13.829
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2016-05-22 17:50:14.037
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2016-05-22 17:50:57.179
+!MESSAGE The server "JBoss EAP 6.1+ (1)" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /usr/lib/jvm/java-7-openjdk-amd64/jre 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-05-22 17:50:57.200
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-05-22 17:51:00.932
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-05-22 17:51:00.957
+!MESSAGE Module BookStoreWeb on JBoss EAP 6.1+ (1) not yet fully deployed. Waiting...

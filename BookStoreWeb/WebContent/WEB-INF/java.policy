@@ -1,0 +1,14 @@
+grant principal com.bookstore.security.MyPrincipal "role=ADMIN" {
+	permission com.bookstore.security.MyPermission "1";
+	permission com.bookstore.security.MyPermission "2";
+	permission com.bookstore.security.MyPermission "3";
+};
+
+grant principal com.bookstore.security.MyPrincipal "role=USER" {
+	permission com.bookstore.security.MyPermission "2";
+	permission com.bookstore.security.MyPermission "3";
+};
+
+grant principal com.bookstore.security.MyPrincipal "role=BANNED" {
+	permission com.bookstore.security.MyPermission "3";
+};

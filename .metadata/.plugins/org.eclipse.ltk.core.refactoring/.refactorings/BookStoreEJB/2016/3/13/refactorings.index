@@ -1,0 +1,17 @@
+1458456430365	Move compilation units
+1458456665570	Encapsulate field 'username'
+1458456672584	Encapsulate field 'password'
+1458456678841	Encapsulate field 'email'
+1458456686228	Encapsulate field 'id'
+1458459641086	Copy package
+1458476080932	Copy compilation unit
+1458478316505	Copy compilation unit
+1458559893603	Delete element
+1458691949467	Encapsulate field 'Name'
+1458691959085	Encapsulate field 'Author'
+1458691968985	Encapsulate field 'Publisher'
+1458691980136	Encapsulate field 'ISBN'
+1458691995381	Encapsulate field 'Price'
+1458692002678	Encapsulate field 'Status'
+1458692500205	Copy package
+1458708157924	Rename local variable 'books'

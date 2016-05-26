@@ -1,0 +1,14 @@
+package com.bookstore.ws;
+
+import javax.jws.WebService;
+
+@WebService(endpointInterface = "com.bookstore.ws.HelloWorld")
+public class HelloWorldImpl implements HelloWorld {
+
+	@Override
+	public String Hello() {
+		System.out.println("Hello");
+		return "Hello";
+	}
+
+}

@@ -1,0 +1,23 @@
+package com.bookstore.memcached;
+
+import javax.ejb.LocalBean;
+import javax.ejb.Singleton;
+
+import com.danga.MemCached.MemCachedClient;
+
+/**
+ * Session Bean implementation class MyMemCache
+ */
+@Singleton
+@LocalBean
+public class MyMemCache implements MyMemCacheRemote {
+	public MemCachedClient memCachedClient;
+
+    /**
+     * Default constructor. 
+     */
+    public MyMemCache() {
+        memCachedClient = new MemCachedClient();
+    }
+
+}

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" version="3.1">
+  <welcome-file-list>
+    <welcome-file>index</welcome-file>
+  </welcome-file-list>
+  <security-constraint>
+    <web-resource-collection>
+      <web-resource-name>AuthServer</web-resource-name>
+      <url-pattern>/BookActionServlet</url-pattern>
+    </web-resource-collection>
+    <user-data-constraint>
+      <transport-guarantee>CONFIDENTIAL</transport-guarantee>
+    </user-data-constraint>
+  </security-constraint>
+  <security-constraint>
+    <web-resource-collection>
+      <web-resource-name>simple web resource</web-resource-name>
+      <url-pattern>/UserListServlet</url-pattern>
+    </web-resource-collection>
+    <auth-constraint>
+      <role-name>ADMIN</role-name>
+    </auth-constraint>
+  </security-constraint>
+  <security-role>
+    <role-name>ADMIN</role-name>
+  </security-role>
+  <security-role>
+    <role-name>USER</role-name>
+  </security-role>
+  <security-role>
+    <role-name>BANNED</role-name>
+  </security-role>
+ 	<servlet>
+		<servlet-name>com.bookstore.ws</servlet-name>
+		<servlet-class>com.bookstore.ws</servlet-class>
+		<load-on-startup>1</load-on-startup>
+	</servlet>
+	
+	<servlet-mapping>
+		<servlet-name>com.bookstore.ws</servlet-name>
+		<url-pattern>/hello</url-pattern>
+	</servlet-mapping>
+</web-app>

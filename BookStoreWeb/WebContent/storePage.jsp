@@ -1,0 +1,101 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<link rel="stylesheet" href="materialize/css/materialize.min.css">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Welcome to My Bookstore - Store Page</title>
+</head>
+<body class="grey lighten-5">
+	
+	<div class="container" style="margin-left: 300px">
+	    <div class="row" id="books">
+	    </div>
+	    <%System.out.println(request.getUserPrincipal());
+	    if (request.isUserInRole("ADMIN")) { %>
+	    <div class="row">
+	    	<div class="col s12 m6">
+                <div class="card grey lighten-4 z-depth-1">
+                    <form action="BookActionServlet" method="post" id="addForm">
+                        <input type="hidden" name="action" value="add">
+                        <div class="card-content black-text row" style="margin-bottom: 0">
+                            <div class="card-title blue lighten-1 white-text"
+                                 style="margin:-20px -20px 10px -20px; padding:10px 20px 5px 20px">Add Book</div>
+                            <div class="input-field col s12">
+                                <input id="bookName" type="text" class="validate" name="bookName">
+                                <label for="bookName">Book Name</label>
+                            </div>
+                            <div class="input-field col s6">
+                                <input id="author" type="text" class="validate" name="author">
+                                <label for="author">Author</label>
+                            </div>
+                            <div class="input-field col s6">
+                                <input id="publisher" type="text" class="validate" name="publisher">
+                                <label for="publisher">Publisher</label>
+                            </div>
+                            <div class="input-field col s6">
+                                <input id="isbn" type="text" class="validate" style="margin-bottom: 0" name="isbn">
+                                <label for="isbn">ISBN Number</label>
+                            </div>
+                            <div class="input-field col s6" >
+                                <input id="price" type="number" class="validate" style="margin-bottom: 0" name="price">
+                                <label for="price">Price</label>
+                            </div>
+                            <div class="input-field col s12">
+                                <input id="description" type="text" class="validate" name="description">
+                                <label for="description">Description</label>
+                            </div>
+                        </div>
+                        <div class="card-action right-align" style="padding:10px">
+                            <a href="javascript: return false;" onclick="$('#addForm').submit()">Add</a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+	    </div>
+	    <%} %>
+	    
+    </div>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+	<script src="materialize/js/materialize.min.js"></script>
+    <script>
+	$(document).ready(function() {
+		console.log("hehehe");
+		$.get("BookListServlet", function(data) {
+			$.each(data.books, function(key, value) {
+				$('#books').append(
+					'<div class="col s12 m6">'+
+		                '<div class="card grey lighten-4 z-depth-1">'+
+		                    '<div class="card-content black-text">'+
+		                        '<div class="card-title blue lighten-1 white-text" style="margin:-20px -20px 10px -20px; padding:10px 20px 5px 20px">'+
+		                        value.Name+'</div>'+	                        
+		                        '<p>'+
+		                            'The book is written by <b>'+value.Author+'</b>.<br>'+
+		                            'The publisher <b>'+value.Publisher+'</b> published it.<br>'+
+		                            'The ISBN code of this book is <b>'+value.ISBN+'</b>.<br>'+
+		                            'The price is <b>'+value.Price+'</b>.<br>'+
+		                        '</p>'+
+		                        '<br>'+
+		                        '<p id="p'+key+'"></p>'+
+		                    '</div>'+
+		                    '<div class="card-action right-align" style="padding:10px">'+
+		                    	'<a href="#" id="more'+key+'">MORE</a>'+
+		                        '<a href="AddShoppingCartServlet?bookID='+value.ID+'">ADD TO CART</a>'+
+		                    '</div>'+
+		                '</div>'+
+		            '</div>');
+				$("#more" + key).click(function() {
+					$.post("BookDetailServlet", {"BookID": key + 1}, function(data) {
+						console.log(data.detail);
+						$("#p" + key).text(data.detail);
+					});
+				})
+			})
+		})
+	})
+</script>
+    <jsp:include page="sideNav.jsp"></jsp:include>
+</body>
+
+</html>

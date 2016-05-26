@@ -1,0 +1,15 @@
+package com.bookstore.memcached;
+
+import com.danga.MemCached.*;
+
+import redis.clients.jedis.Jedis;
+
+public class MyCache {
+	protected static Jedis jedis = new Jedis("localhost");
+	
+	public static MemCachedClient getInstance() {
+		return jedis;
+	}
+	
+	private MyCache() {}
+}

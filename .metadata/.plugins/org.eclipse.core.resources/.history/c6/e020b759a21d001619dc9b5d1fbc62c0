@@ -1,0 +1,5 @@
+package com.bookstore.ws;
+
+public class EndpointPublisher {
+
+}

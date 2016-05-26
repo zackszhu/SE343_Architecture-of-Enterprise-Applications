@@ -1,0 +1,35 @@
+package com.bookstore.memcached;
+
+import com.danga.MemCached.*;
+
+import redis.clients.jedis.Jedis;
+
+public class MyCache {
+	protected static Jedis jedis = new Jedis("localhost");
+	
+	static {
+		
+        String[] servers =
+            {
+                "localhost:11211",
+            };
+	
+        Integer[] weights = { 1 };
+	
+        SockIOPool pool = SockIOPool.getInstance();
+	
+        pool.setServers( servers );
+        pool.setWeights( weights );
+        pool.setInitConn( 5 );
+        pool.setMinConn( 5 );
+        pool.setMaxConn( 250 );
+        pool.setMaxIdle( 1000 * 60 * 60 * 6 );
+        pool.initialize();
+	}
+	
+	public static MemCachedClient getInstance() {
+		return jedis;
+	}
+	
+	private MyCache() {}
+}
